@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>my-module</artifactId>
+    <groupId>com.mycompany.app</groupId>
+    <version>1</version>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.docx4j/docx4j -->
+        <dependency>
+            <groupId>org.docx4j</groupId>
+            <artifactId>docx4j</artifactId>
+            <version>3.3.4</version>
+        </dependency>
+
+
+
+    </dependencies>
+</project>
